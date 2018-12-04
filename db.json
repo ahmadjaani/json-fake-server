@@ -1,7 +1,7 @@
 {
   "profiles":[
-    {"id":1,"name":"shiva","age:23}
-    {"id":1,"name":"samba","age:24}
-    {"id":1,"samba":"teja","age:25}
+    {"id":1,"name":"shiva","age:23},
+    {"id":2,"name":"samba","age:24},
+    {"id":3,"samba":"teja","age:25}
   ]
 }
