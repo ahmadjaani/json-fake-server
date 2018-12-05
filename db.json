@@ -7,16 +7,16 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "Angular has made my life easier!!!",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "I like Angular!!!",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "raza ahmad khan"
   }
 }
