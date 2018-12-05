@@ -2,7 +2,8 @@
   "profiles": [
     { "id": 1, "name": "samba", "age": 21 },
     { "id": 2, "name": "shiva", "age": 31 },
-    { "id": 3, "name": "teja", "age": 41 }
+    { "id": 3, "name": "teja", "age": 41 },
+    { "id": 4, "name": "surya", "age": 51 }
   ],
   "comments": [
     {
@@ -13,7 +14,12 @@
     {
       "id": 2,
       "body": "I like Angular!!!",
-      "postId": 1
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "Angular HTTP works with Observables!!!",
+      "postId" : 3
     }
   ],
   "profile": {
